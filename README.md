@@ -6,4 +6,3 @@ I will be more to this repository as we learn about more features.
 ## About
 
 * Author: Elizabeth Wickes
-* fun fact: snakes don't have ears
